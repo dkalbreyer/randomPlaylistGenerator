@@ -13,9 +13,9 @@ INSTALLATION MANUAL:
 4. Install python3 on your system, take the recommended version for your operating system on https://www.python.org/downloads/
 5. Enter "python3 --version" in the terminal to check if the installation was succesfull -> it was, if there is something like "Python 3.9.5"
 ---
-6. Navigate to the folder <randomPlaylistGenerator>
+6. Navigate to the folder 'randomPlaylistGenerator'
 7. Enter "make install" in the terminal
-8. Copy all musicFiles or -directories in the directory <randomPlaylistGenerator>, that should be in the playlist
+8. Copy all musicFiles or -directories in the directory 'randomPlaylistGenerator', that should be in the playlist
 9. Enter "make" in the terminal
 
 ***
