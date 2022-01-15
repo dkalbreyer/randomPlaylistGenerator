@@ -1,6 +1,8 @@
 HINT:
 If any step in the USER-MANUAL does not work, please take a screenshot of the terminal and send it to kallekalbreyer@gmail.com
 
+***
+***
 
 INSTALLATION MANUAL:
 1. Open a terminal/console on your computer
@@ -15,6 +17,8 @@ INSTALLATION MANUAL:
 8. Copy all musicFiles or -directories in the directory <randomPlaylistGenerator>, that should be in the playlist
 9. Enter "make" in the terminal
 
+***
+***
 
 NOTES:
 - right now it is not possible to skip songs or manipulate the playback somehow
